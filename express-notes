@@ -1,16 +1,18 @@
 Open terminal/console, then create a folder for our application:
 
-mkdir usermanagement
+- mkdir usermanagement
 
-cd usermanagement
+- cd usermanagement
 
 Initialize the Node.js application with a package.json file:
 
-npm init
+- npm init
 
 Next, we need to install necessary modules: express, mysql and body-parser.
 
 Now, in the root folder, we create a new file named server.js:
+- npm install express mysql body-parser --save
+
 
 
 	
