@@ -2,7 +2,7 @@ Express Js Installation Steps:-
 
 - npm init
 
-- express, mysql and body-parser.
+- npm install express mysql body-parser --save
 
 - create a server.js file and put the below codes:- 
 /***************************************************************/
